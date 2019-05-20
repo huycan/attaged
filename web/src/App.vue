@@ -11,11 +11,7 @@
 <script>
 import {
   VApp,
-  VChip,
-  VContent,
-  VSpacer,
-  VToolbar,
-  VToolbarTitle
+  VContent
 } from 'vuetify/lib'
 
 import Header from './components/Header'
